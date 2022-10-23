@@ -25,6 +25,7 @@ Os módulos do curso podem ser visualizados abaixo:
 - Listas;
 - Estruturas de Repetição;
 - Funções e Procedimentos.
+
 Duração: 32 horas
 
 #### Módulo 2 – Fundamentos de Banco de Dados
@@ -34,6 +35,7 @@ Duração: 32 horas
 - Introdução à banco de dados;
 - Banco de Dados Relacional x Banco de Dados NOSQL;
 - Overview do SQL Server, MongoDB, Cassandra e Neo4j.
+
 Duração: 32 horas
 
 
@@ -61,6 +63,7 @@ Duração: 32 horas
 - Governança de TI e computação em nuvem;
 - Cloud Service Expense Management (CSEM);
 - Carreira e certificações (CompTIA Cloud Essentials, Cloud Credential Council (CCC), etc.).
+
 Duração: 32 horas
 
  
@@ -71,6 +74,7 @@ Duração: 32 horas
 - Introdução ao Python;
 - Tipos de dados em Python;
 - Bibliotecas e operações básicas em Python.
+
 Duração: 32 horas
 
  
@@ -80,6 +84,7 @@ Duração: 32 horas
 - Introdução à análise de dados.
 - Pandas e numpy para a análise de dados.
 - Introdução ao scikit-learn.
+
 Duração: 32 horas
 
  
@@ -89,6 +94,7 @@ Duração: 32 horas
 - Introdução ao Django 3;
 - Introdução ao Flask;
 - Desenvolvimento de aplicações Web com Python.
+
 Duração: 32 horas
 
  
@@ -98,4 +104,5 @@ Duração: 32 horas
 - Introdução ao pygame;
 - Concorrência e paralelismo com Python;
 - Programação reativa com Python.
+
 Duração: 32 horas
