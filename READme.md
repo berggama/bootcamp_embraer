@@ -10,7 +10,49 @@ O Social Tech de 2022, em sua segunda edição, conta com a parceria com a IGTI 
 ## Ementa
 Os módulos do curso podem ser visualizados abaixo:
 
-### Módulos introdutórios
+### Bootcamp Desenvolvedor Python
+
+#### <a href="https://github.com/berggama/bootcamp_embraer/tree/main/M%C3%B3dulo%201%20-%20Fundamentos">Módulo 01 – Fundamentos</a>
+</p>
+
+- Introdução ao Python;
+- Tipos de dados em Python;
+- Bibliotecas e operações básicas em Python.
+
+Duração: 32 horas
+
+ 
+
+#### Módulo 02 – Python para Análise de Dados
+
+- Introdução à análise de dados.
+- Pandas e numpy para a análise de dados.
+- Introdução ao scikit-learn.
+
+Duração: 32 horas
+
+ 
+
+#### Módulo 03 – Python para Aplicações Web
+
+- Introdução ao Django 3;
+- Introdução ao Flask;
+- Desenvolvimento de aplicações Web com Python.
+
+Duração: 32 horas
+
+ 
+
+#### Módulo 04 – Python Avançado
+- Algoritmos e frameworks de machine learning utilizando o Python;
+- Introdução ao pygame;
+- Concorrência e paralelismo com Python;
+- Programação reativa com Python.
+
+Duração: 32 horas
+
+
+### Módulos extras
 
 #### Módulo 1 – Fundamentos de Programação
 - Introdução a Computadores;
@@ -63,46 +105,5 @@ Duração: 32 horas
 - Governança de TI e computação em nuvem;
 - Cloud Service Expense Management (CSEM);
 - Carreira e certificações (CompTIA Cloud Essentials, Cloud Credential Council (CCC), etc.).
-
-Duração: 32 horas
-
- 
-
-### Bootcamp Desenvolvedor Python
-
-#### Módulo 01 – Fundamentos
-- Introdução ao Python;
-- Tipos de dados em Python;
-- Bibliotecas e operações básicas em Python.
-
-Duração: 32 horas
-
- 
-
-#### Módulo 02 – Python para Análise de Dados
-
-- Introdução à análise de dados.
-- Pandas e numpy para a análise de dados.
-- Introdução ao scikit-learn.
-
-Duração: 32 horas
-
- 
-
-#### Módulo 03 – Python para Aplicações Web
-
-- Introdução ao Django 3;
-- Introdução ao Flask;
-- Desenvolvimento de aplicações Web com Python.
-
-Duração: 32 horas
-
- 
-
-#### Módulo 04 – Python Avançado
-- Algoritmos e frameworks de machine learning utilizando o Python;
-- Introdução ao pygame;
-- Concorrência e paralelismo com Python;
-- Programação reativa com Python.
 
 Duração: 32 horas
