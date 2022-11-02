@@ -20,5 +20,6 @@ Serão abordados os conceitos de declaração de variáveis operadores, estrutur
 ## Entregas
 - <a href="https://github.com/berggama/bootcamp_embraer/blob/main/M%C3%B3dulo%201%20-%20Fundamentos/trabalho_pratico_modulo_1.ipynb">Trabalho prático</a>
 </p>
+
 - <a href="https://github.com/berggama/bootcamp_embraer/blob/main/M%C3%B3dulo%201%20-%20Fundamentos/desafio_modulo_1.ipynb">Desafio</a>
 </p>
