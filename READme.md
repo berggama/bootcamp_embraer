@@ -23,7 +23,8 @@ Duração: 32 horas
 
  
 
-#### Módulo 02 – Python para Análise de Dados
+#### <a href="https://github.com/berggama/bootcamp_embraer/tree/main/M%C3%B3dulo%202%20-%20Python%20para%20An%C3%A1lise%20de%20Dados"> Módulo 02 – Python para Análise de Dados </a>
+</p>
 
 - Introdução à análise de dados.
 - Pandas e numpy para a análise de dados.
