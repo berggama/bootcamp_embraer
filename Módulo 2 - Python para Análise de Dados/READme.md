@@ -13,3 +13,6 @@ Serão abordados os conceitos das bibliotecas numpy e pandas;
 ## Entregas
 - <a href="https://github.com/berggama/bootcamp_embraer/blob/main/M%C3%B3dulo%202%20-%20Python%20para%20An%C3%A1lise%20de%20Dados/%20trabalho_pratico_modulo_2.ipynb">Trabalho prático</a>
 </p>
+
+- <a href="https://github.com/berggama/bootcamp_embraer/blob/main/M%C3%B3dulo%202%20-%20Python%20para%20An%C3%A1lise%20de%20Dados/desafio_modulo_2.ipynb">Desafio</a>
+</p>
