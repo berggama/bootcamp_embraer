@@ -5,6 +5,7 @@ Exercitar os seguintes conceitos trabalhados no Módulo:
 - Criação e manipulação de numpy arrays.
 - Leitura de dados e manipulação de DataFrames e Series no pandas.
 - Fundamentos de aprendizado de máquinas.
+- Realizar a análise de uma base de dados real em Python.
   
 ## Enunciado
 Nesses notebooks você verá a solução de problemas simples utilizando a linguagem Python. 
